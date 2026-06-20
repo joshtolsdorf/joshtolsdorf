@@ -1,4 +1,4 @@
-# Hi, I'm Josh 👋
+# Hi, I'm Josh ✌️
 
 Infrastructure Engineer focused on Microsoft Intune, PowerShell, Microsoft 365, and endpoint automation.
 
