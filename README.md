@@ -6,16 +6,16 @@ I build reusable solutions, document real-world implementations, and share pract
 
 ## 🚀 Current Focus
 
-- Microsoft Intune
-- PowerShell
-- Microsoft Graph
-- Enterprise Automation
+* Microsoft Intune
+* PowerShell
+* Microsoft Graph
+* Enterprise Automation
 
 ## 📦 Featured Project
 
-**Microsoft Intune Remediations**
+### Microsoft Intune Remediations
 
-A growing collection of well-documented Intune Proactive Remediations built with PowerShell and reusable templates.
+A growing collection of well-documented Microsoft Intune Proactive Remediations built with PowerShell, reusable templates, and implementation guidance.
 
 ---
 
