@@ -17,8 +17,6 @@ I build reusable solutions, document real-world implementations, and share pract
 
 A growing collection of well-documented Microsoft Intune Proactive Remediations built with PowerShell, reusable templates, and implementation guidance.
 
----
-
 ## 🤝 Connect
 
 If you find something useful or have suggestions for improvement, feel free to open an issue or start a discussion.
