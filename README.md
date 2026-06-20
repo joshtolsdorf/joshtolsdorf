@@ -19,10 +19,6 @@ A growing collection of well-documented Intune Proactive Remediations built with
 
 ---
 
-*"Building maintainable solutions through automation and documentation."*
-
----
-
 ## 🤝 Connect
 
 If you find something useful or have suggestions for improvement, feel free to open an issue or start a discussion.
