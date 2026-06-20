@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Josh 👋
 
-<!--
-**joshtolsdorf/joshtolsdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure Engineer specializing in Microsoft Intune,
+PowerShell, Microsoft 365, and endpoint management.
 
-Here are some ideas to get you started:
+## What you'll find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 PowerShell automation
+- 📦 Intune Win32 packaging
+- 🔧 Microsoft Graph scripts
+- 📚 Technical documentation
+- 🚀 Personal projects and learning
+
+## Current Focus
+
+- Modern Endpoint Management
+- PowerShell Development
+- Microsoft Graph
+- Enterprise Automation
+
+Thanks for stopping by!
