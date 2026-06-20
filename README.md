@@ -11,7 +11,7 @@ I build reusable solutions, document real-world implementations, and share pract
 * Microsoft Graph
 * Enterprise Automation
 
-## 📦 Featured Project
+## 🎁 Featured Project
 
 ### Microsoft Intune Remediations
 
